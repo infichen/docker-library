@@ -1,4 +1,4 @@
-FROM harbor.58corp.com/ailab/bvlc/caffe:gpu
+FROM bvlc/caffe:gpu
 
 MAINTAINER chenxingzhen <chenxingzhen@58.com>
 
